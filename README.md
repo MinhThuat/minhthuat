@@ -9,3 +9,5 @@ You can ask me about:
 🐍 Python  ☕ Java  
   
 📃 SQL     💻 VS Code
+
+📊Power BI  📈 R code
