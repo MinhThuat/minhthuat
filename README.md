@@ -19,7 +19,7 @@ With a strong foundation in **Python, SQL, and Data Visualization**, I enjoy sol
 * 📊 Building real-world data analysis projects
 * 🧹 Practicing data cleaning & preprocessing techniques
 * 📈 Improving storytelling with data & dashboard design
-* ⚡ Exploring advanced SQL & performance optimization
+* ⚡ Exploring advanced SQL and performance optimization
 
 ---
 
@@ -47,20 +47,21 @@ With a strong foundation in **Python, SQL, and Data Visualization**, I enjoy sol
 
 🔹 **Customer Behavior Analysis**
 
-* Analyze user events data using SQL & Python
-* Perform A/B testing to evaluate product changes
-* Build dashboards to visualize insights
+* Cleaning, processing, and feature engineering of data
+* Analyzing user event data using Python
+* Building dashboards to visualize insights
 
 🔹 **Sales Dashboard (Power BI)**
 
-* Clean and transform raw sales data
-* Create interactive dashboards
-* Provide actionable business insights
+* Cleaning and transforming raw sales data
+* Creating interactive dashboards
+* Providing actionable business insights
 
-🔹 **Data Cleaning Pipeline**
+🔹 **HR Analysis**
 
-* Handle missing values, outliers
-* Automate preprocessing with Python
+* Handling missing values and outliers
+* Building a full pipeline from raw data to data mart to analysis
+* Extracting insights from HR data
 
 ---
 
