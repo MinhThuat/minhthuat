@@ -7,40 +7,81 @@ University of Science – Ho Chi Minh City
 
 ## 🚀 About Me
 
-I’m a passionate data enthusiast who has recently graduated and is continuously expanding my knowledge in the field of **Data Analysis** and **Data Science**.
+I’m a data enthusiast passionate about turning raw data into meaningful insights.
+With a strong foundation in **Python, SQL, and Data Visualization**, I enjoy solving problems, uncovering patterns, and telling stories through data.
 
-I enjoy working with data—from cleaning and processing to analyzing and visualizing—to uncover meaningful insights that support better decision-making.
-
----
-
-## 🧠 What I'm Exploring
-
-* 🐍 Python for data analysis & automation
-* 📃 SQL for data querying and database management
-* 📊 Data Visualization (Power BI, Matplotlib, etc.)
-* 🔍 Data Cleaning & Preprocessing
-* 📈 Storytelling with Data
+💡 I believe data is not just numbers — it’s a powerful tool for decision-making.
 
 ---
 
-## 💡 My Goal
+## 🔥 What I'm Currently Doing
 
-To transform raw data into actionable insights and build data-driven solutions that create real-world impact.
+* 📊 Building real-world data analysis projects
+* 🧹 Practicing data cleaning & preprocessing techniques
+* 📈 Improving storytelling with data & dashboard design
+* ⚡ Exploring advanced SQL & performance optimization
 
 ---
 
 ## 🛠️ Tech Stack
+### 💻 Languages
 
-* **Languages:** Python, SQL, Java
-* **Tools:** VS Code, Power BI, Excel
-* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=database\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+
+### 📊 Data & Visualization
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge\&logo=plotly\&logoColor=black)
+
+### 🧰 Tools
+
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
-## 📫 Let's Connect
+## 📌 Featured Projects
 
-I'm always open to learning, collaboration, and new opportunities in data!
+🔹 **Customer Behavior Analysis**
+
+* Analyze user events data using SQL & Python
+* Perform A/B testing to evaluate product changes
+* Build dashboards to visualize insights
+
+🔹 **Sales Dashboard (Power BI)**
+
+* Clean and transform raw sales data
+* Create interactive dashboards
+* Provide actionable business insights
+
+🔹 **Data Cleaning Pipeline**
+
+* Handle missing values, outliers
+* Automate preprocessing with Python
 
 ---
 
-⭐ *“Without data, you're just another person with an opinion.”*
+## 📈 GitHub Stats
+
+![Thuat's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🧩 Fun Fact
+
+I enjoy finding hidden patterns in data more than scrolling social media 😄
+
+---
+
+## 📫 Contact Me
+
+* 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+* 💼 LinkedIn: https://linkedin.com/in/yourprofile
+
+---
+
+⭐ *“Data is the new oil, but insight is the real fuel.”*
