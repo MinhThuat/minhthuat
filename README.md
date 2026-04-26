@@ -24,11 +24,12 @@ With a strong foundation in **Python, SQL, and Data Visualization**, I enjoy sol
 ---
 
 ## 🛠️ Tech Stack
+
 ### 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=database\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
 
 ### 📊 Data & Visualization
 
@@ -62,7 +63,6 @@ With a strong foundation in **Python, SQL, and Data Visualization**, I enjoy sol
 * Automate preprocessing with Python
 
 ---
-
 
 ## 🧩 Fun Fact
 
