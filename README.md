@@ -63,13 +63,6 @@ With a strong foundation in **Python, SQL, and Data Visualization**, I enjoy sol
 
 ---
 
-## 📈 GitHub Stats
-
-![Thuat's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🧩 Fun Fact
 
