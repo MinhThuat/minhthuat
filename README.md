@@ -72,8 +72,8 @@ I enjoy finding hidden patterns in data more than scrolling social media 😄
 
 ## 📫 Contact Me
 
-* 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-* 💼 LinkedIn: https://linkedin.com/in/yourprofile
+* 📧 Email: [thuattruongminh@gmail.com](mailto:thuattruongminh@gmail.com)
+* 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/minhthuat/)
 
 ---
 
